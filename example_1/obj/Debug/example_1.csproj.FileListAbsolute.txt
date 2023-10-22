@@ -1,0 +1,14 @@
+D:\velvetauth\test\example_1\example_1\bin\Debug\example_1.exe.config
+D:\velvetauth\test\example_1\example_1\bin\Debug\example_1.exe
+D:\velvetauth\test\example_1\example_1\bin\Debug\example_1.pdb
+D:\velvetauth\test\example_1\example_1\bin\Debug\Siticone.UI.dll
+D:\velvetauth\test\example_1\example_1\obj\Debug\example_1.csproj.AssemblyReference.cache
+D:\velvetauth\test\example_1\example_1\obj\Debug\example_1.Form1.resources
+D:\velvetauth\test\example_1\example_1\obj\Debug\example_1.Properties.Resources.resources
+D:\velvetauth\test\example_1\example_1\obj\Debug\example_1.register.resources
+D:\velvetauth\test\example_1\example_1\obj\Debug\example_1.csproj.GenerateResource.cache
+D:\velvetauth\test\example_1\example_1\obj\Debug\example_1.csproj.CoreCompileInputs.cache
+D:\velvetauth\test\example_1\example_1\obj\Debug\example_1.csproj.CopyComplete
+D:\velvetauth\test\example_1\example_1\obj\Debug\example_1.exe
+D:\velvetauth\test\example_1\example_1\obj\Debug\example_1.pdb
+D:\velvetauth\test\example_1\example_1\obj\Debug\example_1.Form2.resources
