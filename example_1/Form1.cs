@@ -24,9 +24,9 @@ namespace example_1
         }
  
         
-        public static api VelvetAuth = new api("", 
-            "", 
-            "", 
+        public static api VelvetAuth = new api("1.0",
+            "ih2MGGsyA1lwZH9Ebm6vzP6HItVnlyxneOerH9fGara",
+            "424de8e5fc008b8a587e2b67cefdecea", 
             show_messages: true);
 
 
@@ -53,5 +53,7 @@ namespace example_1
                 this.Close();
             }
         }
+
+    
     }
 }

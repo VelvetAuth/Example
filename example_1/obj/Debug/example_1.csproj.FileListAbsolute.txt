@@ -12,3 +12,16 @@ D:\velvetauth\test\example_1\example_1\obj\Debug\example_1.csproj.CopyComplete
 D:\velvetauth\test\example_1\example_1\obj\Debug\example_1.exe
 D:\velvetauth\test\example_1\example_1\obj\Debug\example_1.pdb
 D:\velvetauth\test\example_1\example_1\obj\Debug\example_1.Form2.resources
+D:\tutorials-vauth-yt\Example-main\example_1\bin\Debug\example_1.exe.config
+D:\tutorials-vauth-yt\Example-main\example_1\bin\Debug\example_1.exe
+D:\tutorials-vauth-yt\Example-main\example_1\bin\Debug\example_1.pdb
+D:\tutorials-vauth-yt\Example-main\example_1\obj\Debug\example_1.csproj.AssemblyReference.cache
+D:\tutorials-vauth-yt\Example-main\example_1\obj\Debug\example_1.Form1.resources
+D:\tutorials-vauth-yt\Example-main\example_1\obj\Debug\example_1.Form2.resources
+D:\tutorials-vauth-yt\Example-main\example_1\obj\Debug\example_1.Properties.Resources.resources
+D:\tutorials-vauth-yt\Example-main\example_1\obj\Debug\example_1.register.resources
+D:\tutorials-vauth-yt\Example-main\example_1\obj\Debug\example_1.csproj.GenerateResource.cache
+D:\tutorials-vauth-yt\Example-main\example_1\obj\Debug\example_1.csproj.CoreCompileInputs.cache
+D:\tutorials-vauth-yt\Example-main\example_1\obj\Debug\example_1.csproj.CopyComplete
+D:\tutorials-vauth-yt\Example-main\example_1\obj\Debug\example_1.exe
+D:\tutorials-vauth-yt\Example-main\example_1\obj\Debug\example_1.pdb

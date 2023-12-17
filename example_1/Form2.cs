@@ -31,5 +31,19 @@ namespace example_1
                     break;
             }
         }
+
+        private void checkbtn_Click(object sender, EventArgs e)
+        {
+            if(Form1.VelvetAuth.user_data.rank == 1)
+            {
+                vProtect.api.messagebox.Access_Denied();
+            }else if(Form1.VelvetAuth.user_data.rank == 2)
+            {
+                vProtect.api.messagebox.Access_Granted();
+            }else
+            {
+                MessageBox.Show("failed");
+            }
+        }
     }
 }

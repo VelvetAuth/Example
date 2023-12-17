@@ -32,6 +32,7 @@
             this.emaillb = new Siticone.UI.WinForms.SiticoneLabel();
             this.expirylb = new Siticone.UI.WinForms.SiticoneLabel();
             this.levellb = new Siticone.UI.WinForms.SiticoneLabel();
+            this.checkbtn = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // usernamelb
@@ -70,11 +71,22 @@
             this.levellb.TabIndex = 3;
             this.levellb.Text = "siticoneLabel1";
             // 
+            // checkbtn
+            // 
+            this.checkbtn.Location = new System.Drawing.Point(34, 131);
+            this.checkbtn.Name = "checkbtn";
+            this.checkbtn.Size = new System.Drawing.Size(75, 23);
+            this.checkbtn.TabIndex = 4;
+            this.checkbtn.Text = "check";
+            this.checkbtn.UseVisualStyleBackColor = true;
+            this.checkbtn.Click += new System.EventHandler(this.checkbtn_Click);
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(410, 305);
+            this.Controls.Add(this.checkbtn);
             this.Controls.Add(this.levellb);
             this.Controls.Add(this.expirylb);
             this.Controls.Add(this.emaillb);
@@ -93,5 +105,6 @@
         private Siticone.UI.WinForms.SiticoneLabel emaillb;
         private Siticone.UI.WinForms.SiticoneLabel expirylb;
         private Siticone.UI.WinForms.SiticoneLabel levellb;
+        private System.Windows.Forms.Button checkbtn;
     }
 }

@@ -28,5 +28,15 @@ namespace vProtect.api
         {
             return MessageBox((IntPtr)0, text, "vAuthentication", (uint)ico);
         }
+
+        public static void Access_Denied()
+        {
+            messagebox.show("access denied", icons.error);
+        }
+
+        public static void Access_Granted()
+        {
+            messagebox.show("access granted", icons.asterisk);
+        }
     }
 }
